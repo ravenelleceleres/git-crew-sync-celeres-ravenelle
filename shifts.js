@@ -1,3 +1,4 @@
+// Task 4 rebase test change
 function isValidShift(hours) {
   return hours > 0 && hours <= 24;
 }
